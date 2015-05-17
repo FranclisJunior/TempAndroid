@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="options_menu_array">
+        <item>Guia Patos</item>
+        <item>Planos</item>
+        <item>Onde Estamos</item>
+        <item>Siga-nos</item>
+    </string-array>
+
+</resources>
